@@ -1,7 +1,7 @@
 
 import React from 'react'
 
-export const nature = () => {
+export const Nature = () => {
     return (
         <div>
              
