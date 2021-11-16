@@ -1,7 +1,24 @@
 .App {
   text-align: center;
 }
+body {  
+  background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/08/Digital-Images-For-Desktop.jpg');
+  font: 400 1em/1.5 "Neuton";  color: rgba(5, 230, 35, 0.932); text-align: center; margin: 0
+}
 
+
+
+
+
+
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family:monospace;
+  font-style: oblique;
+  font-display:unset ;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -21,7 +38,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(196, 228, 15);
 }
 
 .App-link {
@@ -36,3 +53,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+
+ 
